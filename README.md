@@ -17,9 +17,8 @@ Ce projet est une simple application de gestion de contacts développée en Java
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/VotreNomUtilisateur/ContactsManager.git](https://github.com/VotreNomUtilisateur/ContactsManager.git)
+    git clone [https://github.com/MalickXwest/ContactsManager.git](https://github.com/MalickXwest/ContactsManager.git)
     ```
-    (Remplacez `VotreNomUtilisateur` par votre nom d'utilisateur GitHub)
 
 2.  **Naviguer vers le répertoire du projet :**
     ```bash
